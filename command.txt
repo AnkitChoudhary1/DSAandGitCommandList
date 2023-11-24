@@ -1,0 +1,12 @@
+ls  --> shows lsit of file
+mkdir  --> creates new directory/folder
+cd  --> changes directory
+git init --> initalize an empty git repository
+ls -a  --> shows hidden files
+touch filename.txt  --> Create new file
+git status --> shows list of changes 
+git add fileName.txt --> adds files stage
+git commit -m "add comment" --> use commit changes
+vi filename.txt --> edit file from terminal 
+
+
