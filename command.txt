@@ -8,5 +8,6 @@ git status --> shows list of changes
 git add fileName.txt --> adds files stage
 git commit -m "add comment" --> use commit changes
 vi filename.txt --> edit file from terminal 
+Git stash
 
 
