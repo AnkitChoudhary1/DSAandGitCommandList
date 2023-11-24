@@ -8,6 +8,8 @@ git status --> shows list of changes
 git add fileName.txt --> adds files stage
 git commit -m "add comment" --> use commit changes
 vi filename.txt --> edit file from terminal 
-Git stash
+git stash  --> add all the changes that are ready to be staged to be moved to a seperate location and keep our staging area clean
+git stash pop --> Bring back all the staged changes 
+git stash clean --> deletes all the stashed changes 
 
 
